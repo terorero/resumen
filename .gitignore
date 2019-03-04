@@ -4,3 +4,4 @@
 *.css.map
 config.codekit
 config.codekit3
+.jekyll-metadata
